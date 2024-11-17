@@ -1,4 +1,4 @@
-[![EdenLauncher](https://github.com/user-attachments/assets/950b3526-624b-4829-b593-e6513776664a)](https://github.com/eden-daoc/eden-launcher/releases/latest/download/EdenLauncherSetup.exe)
+[![EdenLauncher](https://github.com/user-attachments/assets/55c0d709-25c2-49d5-9d7e-47644dee4c69)](https://github.com/eden-daoc/eden-launcher/releases/latest/download/EdenLauncherSetup.exe)
 
 # Eden Launcher
 
